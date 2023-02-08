@@ -1,9 +1,9 @@
-def print_hello():
-    print("Hello")
+def print_hello_world():
+    print("Hello world")
 
 
 def main():
-    print_hello()
+    print_hello_world()
 
 
 if __name__ == '__main__':
